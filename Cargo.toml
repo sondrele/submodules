@@ -3,5 +3,12 @@ name = "submodules"
 version = "0.1.0"
 authors = ["Sondre Lefsaker <sondrele@stud.ntnu.no>"]
 
-keywords = ["submodule", "build-dependencies"]
+description = "Keep your git submodules up to date."
+documentation = "https://github.com/sondrele/submodules"
+repository = "https://github.com/sondrele/submodules.git"
+homepage = "https://github.com/sondrele/submodules"
 
+license = "MIT"
+readme = "README.md"
+
+keywords = ["submodule", "build-dependencies"]
