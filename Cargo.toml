@@ -2,3 +2,6 @@
 name = "submodules"
 version = "0.1.0"
 authors = ["Sondre Lefsaker <sondrele@stud.ntnu.no>"]
+
+keywords = ["submodule", "build-dependencies"]
+
